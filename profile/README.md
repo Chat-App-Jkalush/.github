@@ -83,7 +83,8 @@ cd frontend && npm start
 The application will be available at:
 
 - **Frontend**: http://localhost:4200
-- **Backend**: http://localhost:3002
+- **Backend**: http://localhost:3000
+- **Web socket**: http://localhost:3002
 
 ## ✨ Features
 
